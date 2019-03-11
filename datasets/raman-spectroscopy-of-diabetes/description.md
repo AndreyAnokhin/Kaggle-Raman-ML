@@ -15,9 +15,9 @@ Please download code to read and plot the data from: https://github.com/guevarac
 
 Please cite: Guevara, E., Torres-Galván, J. C., Ramírez-Elías, M. G., Luevano-Contreras, C., & González, F. J. (2018). Use of Raman spectroscopy to screen diabetes mellitus with machine learning tools. Biomedical Optics Express, 9(10), 4998–5010. https://doi.org/10.1364/BOE.9.004998
 
-### About this file
+### About this files
 
-This file contains the average of five scans at 12 cm-1 resolution collected at the left earlobe, with approximately 15 s total exposure time, for N=20 subjects (11 diabetic patients and 9 healthy controls) The first row is a header with the variable names The second row has the wavenumbers of the Raman shift, from 0 to 3159 cm^-1 Rows 3 - 22 contain the Raman spectra of each subject, rows from 3 to 13 correspond to Diabetes Mellitus type 2 patients, while rows 14 to 22 correspond to controls
+These files contain the average of five scans at 12 cm-1 resolution collected at the left earlobe, the left inner arm, the left thumb nail and the left median cubital vein, with approximately 15 s total exposure time, for N=20 subjects (11 diabetic patients and 9 healthy controls) The first row is a header with the variable names The second row has the wavenumbers of the Raman shift, from 0 to 3159 cm^-1 Rows 3 - 22 contain the Raman spectra of each subject, rows from 3 to 13 correspond to Diabetes Mellitus type 2 patients, while rows 14 to 22 correspond to controls
 
 ### Columns:
 
