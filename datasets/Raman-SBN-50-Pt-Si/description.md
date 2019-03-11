@@ -7,3 +7,8 @@
 Вторая колонка - интенсивность в условных единицах.
 
 Значение температуры (в градусах Кельвина) содержится в названии каждого файла.
+
+---
+При использование датасета, ссылаться на статью:
+
+A.S. Anokhin, N.V. Lyanguzov, A.V. Pavlenko. Lattice Dynamic of Barium-Strontium Niobate Thin Films in the Temperature Range 300–700 K. Science in the South of Russia. 2017. Vol.13. P. 21-28. DOI: 10.23885/2500-0640-2017-13-2-21-28
