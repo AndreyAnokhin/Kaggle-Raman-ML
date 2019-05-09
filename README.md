@@ -11,4 +11,4 @@
 * XGBoost - ML-xgboost.ipynb [(nbviewer)](https://nbviewer.jupyter.org/github/AndreyAnokhin/Kaggle-Raman-ML/blob/master/ML-xgboost.ipynb)
 * Логистическая регрессия - ML-logreg.ipynb [(nbviewer)](https://nbviewer.jupyter.org/github/AndreyAnokhin/Kaggle-Raman-ML/blob/master/ML-logreg.ipynb)
 * Случайный лес (Random Forest) - ML-RandomForest.ipynb [(nbviewer)](https://nbviewer.jupyter.org/github/AndreyAnokhin/Kaggle-Raman-ML/blob/master/ML-RandomForest.ipynb)
-* Метод опорных векторов (SVM) - ML-svm.ipynb [(nbviewer)](https://nbviewer.jupyter.org/github/AndreyAnokhin/Kaggle-Raman-ML/blob/master/ML-svm.ipynb.ipynb)
+* Метод опорных векторов (SVM) - ML-svm.ipynb [(nbviewer)](https://nbviewer.jupyter.org/github/AndreyAnokhin/Kaggle-Raman-ML/blob/master/ML-svm.ipynb)
